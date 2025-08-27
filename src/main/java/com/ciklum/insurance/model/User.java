@@ -40,4 +40,7 @@ public class User {
     private String address;
     private String aadhar;
     private String pan;
+
+    public User(String u1, String johnDoe, String mail, String number, String delhi) {
+    }
 }
